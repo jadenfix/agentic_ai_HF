@@ -1,0 +1,5 @@
+# Install CPU PyTorch through https://download.pytorch.org/whl/cpu first.
+transformers==4.41.2
+pillow>=10,<13
+requests>=2.31,<3
+numpy>=1.26,<3
